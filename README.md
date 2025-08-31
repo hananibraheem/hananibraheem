@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hananibraheem/hananibraheem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m interested in coding, technology, and learning new things.
+- 📫 How to reach me: Just ping me on GitHub!
+
+## My Stats
+
+- Public repositories: 0 (Let’s build something cool!)
+- Followers: 0 (Join the journey!)
+
+## What’s Next?
+
+Stay tuned for awesome projects and code snippets!
+
+---
+
+_Thanks for visiting!_
